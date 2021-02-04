@@ -1,9 +1,9 @@
 ### Hi there, I'm Carlos Marte <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cmarte.cmarte)
 
-[![Carlos Marte's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmarte&count_private=true&show_icons=true)](https://github.com/cmarte/github-readme-stats)
+[![Carlos Marte's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmarte&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarte)](https://github.com/cmarte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarte)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cmarte/cmarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
