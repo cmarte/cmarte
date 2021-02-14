@@ -18,7 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cmarte&theme=radical" alt="cmarte" width="400" /></p>
-
-
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cmarte&theme=radical" alt="cmarte" width="400" /></p></p>
 <br>
+
+<p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=cmarte&show_icons=true&locale=en&theme=blue-green" alt="cmarte" width="400" /></p>  </p>
